@@ -1,7 +1,7 @@
-import "./App.css";
 import { Col, Row } from "react-bootstrap";
-import "bootstrap/dist/css/bootstrap.min.css";
-import Login from "./Login";
+import "bootstrap/dist/css/bootstrap.min.css"
+import './App.css';
+import Login from './Login';
 
 function App() {
   return (
